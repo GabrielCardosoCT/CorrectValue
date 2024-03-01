@@ -1,0 +1,14 @@
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ValorCorreto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ValorCorreto.AssemblyInfoInputs.cache
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ValorCorreto.AssemblyInfo.cs
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ValorCorreto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\My project\ValorCorreto\bin\Debug\net8.0\ValorCorreto.exe
+C:\Users\gabri\My project\ValorCorreto\bin\Debug\net8.0\ValorCorreto.deps.json
+C:\Users\gabri\My project\ValorCorreto\bin\Debug\net8.0\ValorCorreto.runtimeconfig.json
+C:\Users\gabri\My project\ValorCorreto\bin\Debug\net8.0\ValorCorreto.dll
+C:\Users\gabri\My project\ValorCorreto\bin\Debug\net8.0\ValorCorreto.pdb
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ValorCorreto.dll
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\refint\ValorCorreto.dll
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ValorCorreto.pdb
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ValorCorreto.genruntimeconfig.cache
+C:\Users\gabri\My project\ValorCorreto\obj\Debug\net8.0\ref\ValorCorreto.dll
